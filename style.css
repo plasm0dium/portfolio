@@ -1,0 +1,134 @@
+#body{
+  background-color: #666699;
+  text-align: center;
+}
+h2{
+  color: white;
+  font-size: 20px;
+}
+.install{
+  color: #990033;
+  font-size: 16px;
+  font-family: Verdana;
+  border: 1px solid blue;
+  background-color: rgba(255,255,255,0.7);
+}
+.parts{
+  color: #0000FF;
+  font-size: 20px;
+  font-family: Times;
+  border: 1px solid black;
+}
+.and {
+  color: #0000FF;
+  border: 1px solid black;
+  font-size: 20px;
+}
+p{
+  color: #993300;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.adventure{
+  color: #330000;
+  text-align: center;
+  font-size: 30px;
+}
+#title{
+  color: navy;
+  font-size: 40px;
+}
+
+#fix-top {
+  position: fixed;
+  width: 1067px;
+  height: 140px;
+}
+
+#car{
+  color: navy;
+  font-size: 30px;
+}
+.robot{
+  color: white;
+  font-size: 30px;
+  font-family: monospace;
+}
+.tools{
+  text-decoration: underline;
+}
+.warning{
+  color: red;
+  font-size: 36px;
+  font-family: Georgia;
+}
+.steps{
+  color: #101010;
+  font-size: 30px;
+  text-decoration: underline;
+}
+.list{
+  color: #660000;
+  font-size: 30px;
+  text-decoration: underline;
+}
+#image{
+  background-image: url(http://images5.fanpop.com/image/photos/30100000/Buzz-Lightyear-toy-story-2-30185761-1600-1200.jpg);
+}
+#hero{
+  background-image: url(http://ontariotownsquare.org/wp-content/uploads/2015/02/Big-Hero-6-Movie-54.jpg);
+}
+#pic{
+  background-image: url(http://www.happy-wallpapers.com/wp-content/uploads/2014/11/Disney_cars_clipart-6.jpg);
+}
+.rescue{
+  font-size: 36px;
+}
+#container{
+  width: 300px;
+  margin: 0 auto;
+}
+.story:visited {
+  color: #FF0000;
+}
+#main:hover{
+  color: #FF00FF;
+}
+#adventure{
+  margin: 0 auto;
+  width: 716px;
+  height: 100px;
+  padding: 60px 50px;
+  box-sizing: content-box;
+}
+
+.buzz, .hello{
+  font-size: 20px;
+  font-family: Times;
+}
+#mainpage{
+  box-sizing: content-box;
+  padding-top: 140px;
+}
+
+#wrapper {
+  width: 80%;
+  background: white;
+  margin: 0 auto;
+}
+
+#toy{
+  padding: 40px 103px;
+  box-sizing: border-box;
+}
+#left{
+  float: left;
+  margin: 1em;
+}
+#right{
+  float: right;
+  margin: 1em;
+}
+#form{
+
+}

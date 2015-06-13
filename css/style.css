@@ -1,0 +1,61 @@
+.bg-peter-river{
+  background: #3498db;
+  height: 470px;
+  border: 20px solid white;
+}
+.bg-sun-flower{
+  background: #f1c40f;
+  height: 470px;
+  border: 20px solid white;
+}
+.bg-asbestos{
+  background: #7f8c8d;
+  height: 470px;
+  border: 20px solid white;
+}
+.bg-white{
+  background: white;
+  height: 470px;
+  border: 2px solid white;
+
+}
+.marg-20-top {
+  margin-top: 20px;
+  text-align: center;
+
+}
+.bg-concrete{
+  margin-top: 13px;
+  background: #95a5a6;
+  height: 120px;
+  border: 1px solid white;
+  text-align: center;
+}
+.img-width {
+  width: 60%;
+}
+.navbar-brand {
+  color: white;
+}
+.navbar{
+  background: #2c3e50;
+  margin-bottom: 0px;
+  float: fixed;
+  border-color: #2c3e50;
+}
+.portfolio-item{
+  width: 33.33333333%;
+  float: left;
+}
+.col-1{
+  margin: 0 0 15px;
+}
+.row{
+  width: 1330px;
+}
+.text-left{
+  color: white;
+}
+.navbar-right{
+
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+      <div id="madlibs">
+    <p>
+      <!-- <span id="noun1"></span><span id="verb3"></span><span id="adjective2"></span> -->
+    </p>
+    </div>
+  </body>
+  <script>
+  var noun = prompt("Enter a noun");
+  var verb = prompt("Enter a verb");
+  var adjective = prompt("Enter an adjective");
+  var paragraph = noun + " " + verb + " " + adjective
+  document.querySelector('#madlibs').textContent = "My" + " " + paragraph
+</script>
+</html>
